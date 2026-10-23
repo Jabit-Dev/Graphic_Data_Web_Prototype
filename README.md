@@ -1,3 +1,3 @@
-<h1>Jabit Developer ~ Proyecto de curso de Programación Web UNILIBRE</h1>
+<h1>Graphic Data Prototype ~ Jabit</h1>
 
-Página web: https://jabit-dev.github.io/ProgWeb_Corte1_DatosGraficos
+Web Page Prototype: https://jabit-dev.github.io/Graphic_Data_Web_Prototype
